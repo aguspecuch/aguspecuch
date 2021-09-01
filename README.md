@@ -1,4 +1,4 @@
-![public String = He](https://user-images.githubusercontent.com/79877290/131752882-2cebdfe5-5525-45a1-83e4-b80662287235.gif)
+![public String = He](https://user-images.githubusercontent.com/79877290/131753023-f03b3e65-8d5d-42f0-ac7b-62c4fdf61093.gif)
 
 ## 👩 Sobre mi:
 
