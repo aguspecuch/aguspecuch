@@ -11,7 +11,7 @@ Aparte del mundo IT, mi otra pasion son los perros 🐶. Actualemnte forma parte
 ## 🔨 Habilidades:
 JAVA 11 | API Rest | Hibernate | Spring Boot | JPA | Maven | SQL | POO
 
-HTML5 | CSS3 | SpringBoot | JavaScript | JQuery
+HTML5 | CSS3 | Bootstrap | JavaScript | JQuery
 
 ## 📲 Contacto:
 
