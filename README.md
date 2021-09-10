@@ -17,6 +17,7 @@ HTML5 | CSS3 | Bootstrap | JavaScript | JQuery
 
 <a href="https://www.linkedin.com/in/agustina-pecuch/">
   <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+  [![Gmail Badge](https://img.shields.io/badge/-mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:agustina.pecuch@hotmail.com)
 </a>
 
 
