@@ -1,5 +1,3 @@
-![public String = He](https://user-images.githubusercontent.com/79877290/131753023-f03b3e65-8d5d-42f0-ac7b-62c4fdf61093.gif)
-
 ## 👩 Sobre mi:
 
 Tengo 23 años y vivo en Buenos Aires, ARG. Siempre estuve interesada en la tecnologia pero por cuestiones de la vida no fue hasta 2020 que pude empezar a estudiar programacion (gracias pandemia global!). Actualmente estoy aprendiendo Java en el BackEnd Bootcamp de Ada ITW y JavaScript en un curso de CoderHouse. Me encanta aprender de forma autodidacta también.
