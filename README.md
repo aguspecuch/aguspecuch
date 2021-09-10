@@ -1,3 +1,6 @@
+![uwu](https://user-images.githubusercontent.com/79877290/132924726-d4aa9f30-a58d-40e1-8cc6-bcd9cfafc6cd.png)
+
+
 ## 👩 Sobre mi:
 
 Tengo 23 años y vivo en Buenos Aires, ARG. Siempre estuve interesada en la tecnologia pero por cuestiones de la vida no fue hasta 2020 que pude empezar a estudiar programacion (gracias pandemia global!). Actualmente estoy aprendiendo Java en el BackEnd Bootcamp de Ada ITW y JavaScript en un curso de CoderHouse. Me encanta aprender de forma autodidacta también.
