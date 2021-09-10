@@ -7,6 +7,7 @@ Espero que pronto pueda encontrar mi primer trabajo para seguir adquiriendo cono
 Aparte del mundo IT, mi otra pasion son los perros 🐶. Actualemnte forma parte de <a href="https://www.instagram.com/amigoacasa/">Amigo a Casa</a> una ONG que rescata perros de la calle y trata de encontrarles una familia para toda la vida 💖
 
 <img align="right" width="200px" src="https://user-images.githubusercontent.com/79877290/132925325-ead90a59-a25e-46e8-99d0-d35c695b8a07.png">
+
 ## 🔨 Habilidades:
 JAVA 11 | API Rest | Hibernate | Spring Boot | JPA | Maven | SQL | POO
 
