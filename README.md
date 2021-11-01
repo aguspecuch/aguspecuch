@@ -7,9 +7,9 @@ Aparte del mundo IT, mi otra pasion son los perros 🐶. Actualemnte forma parte
 <img align="right" width="200px" src="https://user-images.githubusercontent.com/79877290/132925325-ead90a59-a25e-46e8-99d0-d35c695b8a07.png">
 
 ## 🔨 Habilidades:
-JAVA 11 | API Rest | Hibernate | Spring Boot | JPA | Maven | SQL | POO
+JAVA 11 | API Rest | Hibernate | Spring Boot | JPA | Maven | JUnit | POO
 
-HTML5 | CSS3 | Bootstrap | JavaScript | JQuery
+SQL | MongoDB | Jira | Swagger
 
 ## 📲 Contacto:
 
