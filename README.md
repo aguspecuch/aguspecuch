@@ -1,6 +1,6 @@
 ## 🙋‍♀️ Sobre mi:
 
-Tengo 23 años y vivo en Buenos Aires, ARG. Siempre estuve interesada en la tecnologia pero por cuestiones de la vida no fue hasta 2020 que pude empezar a estudiar programacion (gracias pandemia global!). Actualmente estoy aprendiendo Java en el BackEnd Bootcamp de Ada ITW y JavaScript en un curso de CoderHouse. Me encanta aprender de forma autodidacta también.
+Tengo 24 años y vivo en Buenos Aires, ARG. Siempre estuve interesada en la tecnologia pero por cuestiones de la vida no fue hasta 2020 que pude empezar a estudiar programacion (gracias pandemia global!). 
 
 Aparte del mundo IT, mi otra pasion son los perros 🐶. Actualemnte forma parte de <a href="https://www.instagram.com/amigoacasa/">Amigo a Casa</a> una ONG que rescata perros de la calle y trata de encontrarles una familia para toda la vida 💖
 
